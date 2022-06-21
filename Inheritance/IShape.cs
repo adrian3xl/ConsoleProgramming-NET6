@@ -1,0 +1,9 @@
+﻿
+
+
+interface IShape
+{
+
+    double Area();
+
+}
